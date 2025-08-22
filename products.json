@@ -155,7 +155,7 @@
     {
       "category": "realme",
       "name": "realme c71",
-      "image": "realme-c71.png",
+      "image": "Realme-C71.png",
       "description": "4/6GB RAM - 128GB Storage",
       "status": "متاح",
       "properties": {
@@ -168,6 +168,159 @@
         
       }
     },
+    
+    {
+      "category": "realme",
+      "name": "realme c75x",
+      "image": "Realme-C75x.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1604x720",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  50م.ب ",
+        "battery": "5310 مللي أمبير"
+        
+      }
+    },    
+
+    {
+      "category": "realme",
+      "name": "realme c75x",
+      "image": "Realme-C75x.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1604x720",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  50م.ب ",
+        "battery": "5310 مللي أمبير"
+        
+      }
+    },   
+
+    {
+      "category": "realme",
+      "name": "realme c75",
+      "image": "Realme-C75.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.72 بوصة AMOLED, 1080x2400",
+        "processor": "Helio G92 Max" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه  50م.ب ",
+        "battery": "5828 مللي أمبير"
+        
+      }
+    },  
+
+    {
+      "category": "realme",
+      "name": "realme note 60x",
+      "image": "Realme-Note60x.png",
+      "description": "3GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.74 بوصة AMOLED, 1600x720",
+        "processor": "Unisoc Tiger T612" ,
+        "ram": "3 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  8م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },  
+
+        {
+      "category": "realme",
+      "name": "realme note 60x",
+      "image": "Realme-Note60x.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.74 بوصة AMOLED, 1600x720",
+        "processor": "Unisoc Tiger T612" ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  8م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "realme",
+      "name": "realme note 60",
+      "image": "Realme-Note60.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.74 بوصة AMOLED, 1600x720",
+        "processor": "Unisoc Tiger T612" ,
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  32م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "realme",
+      "name": "realme c61",
+      "image": "Realme-C61.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.74 بوصة AMOLED, 1600x720",
+        "processor": "Unisoc Tiger T612" ,
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  50+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "realme",
+      "name": "realme c63",
+      "image": "Realme-C63.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.75 بوصة AMOLED",
+        "processor": "Unisoc Tiger T612" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه  50م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "realme",
+      "name": "realme Note 50",
+      "image": "Realme-Note50.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.74 بوصة AMOLED, 1600x720",
+        "processor": "Unisoc Tiger T612" ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  13+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    }, 
     
     {
       "category": "iphone",
