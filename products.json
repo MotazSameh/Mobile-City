@@ -18,20 +18,123 @@
     },
     {
       "category": "oppo",
-      "name": "Oppo Reno 5",
-      "image": "https://via.placeholder.com/200x150?text=Oppo+Reno+5",
+      "name": "Oppo A5",
+      "image": "images/oppo-a5-green.png",
       "description": "6GB RAM - 128GB Storage",
-      "status": "خلصان",
+      "status": "متاح",
       "properties": {
-        "screen": "6.4 بوصة AMOLED, 1080x2400",
-        "processor": "Qualcomm Snapdragon 720G",
+        "screen": "6.67 بوصة AMOLED, 1604x720",
+        "processor": "Snapdragon 6s Gen1",
         "ram": "6 جيجابايت",
         "storage": "128 جيجابايت",
-        "camera": "64 ميجابكسل (رئيسية), 8 ميجابكسل (واسعة), 2 ميجابكسل (ماكرو)",
-        "battery": "4310 مللي أمبير",
-        "price": "7000 جنيه"
+        "camera": "اماميه 5م.ب , خلفيه 50+2 م.ب",
+        "battery": "6000 مللي أمبير"
+        
       }
     },
+  
+    {
+      "category": "oppo",
+      "name": "Oppo A5",
+      "image": "images/oppo-A5-4G.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1604x720",
+        "processor": "Snapdragon 6s Gen1",
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 5م.ب , خلفيه 50+2 م.ب",
+        "battery": "6000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "oppo",
+      "name": "Oppo A5 Pro",
+      "image": "images/Oppo-A5-Pro-4G.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1604x720",
+        "processor": "Snapdragon 6s Gen1",
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 8م.ب , خلفيه 50+2 م.ب",
+        "battery": "5800 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "oppo",
+      "name": "Oppo A5x",
+      "image": "images/Oppo-A5x-4G-Colors.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1604x720",
+        "processor": " ثمانى النواه Snapdragon 6s Gen1" ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  32م.ب ",
+        "battery": "6000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "oppo",
+      "name": "Oppo Reno 13F 4G",
+      "image": "images/Oppo-Reno13-F-4G-Colors.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1080x2400",
+        "processor": "Mediatek Helio G100",
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 32م.ب , خلفيه 50+8+2 م.ب",
+        "battery": "5800 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "oppo",
+      "name": "Oppo Reno 14F 5G",
+      "image": "images/Oppo-Reno-14F-Colors2.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1080x2372",
+        "processor": " ثمانى النواه Snapdragon 6s Gen1" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 32م.ب , خلفيه 50+8+2 م.ب",
+        "battery": "6000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "oppo",
+      "name": "Oppo A3",
+      "image": "images/OPPO-A3-Colors.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1604x720",
+        "processor": " ثمانى النواه Snapdragon 6s Gen1" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " Ai Lens+اماميه 5م.ب , خلفيه  50م.ب ",
+        "battery": "5100 مللي أمبير"
+        
+      }
+    },
+
     {
       "category": "iphone",
       "name": "iPhone 13",
