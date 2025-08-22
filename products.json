@@ -86,6 +86,23 @@
 
     {
       "category": "oppo",
+      "name": "Oppo A5i",
+      "image": "oppo-A5i.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1604x720",
+        "processor": " ثمانى النواه Snapdragon 6s Gen1" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  8م.ب ",
+        "battery": "5100 مللي أمبير"
+        
+      }
+    },
+    
+    {
+      "category": "oppo",
       "name": "Oppo Reno 13F 4G",
       "image": "Oppo-Reno13-F-4G-Colors.png",
       "description": "8GB RAM - 256GB Storage",
@@ -136,18 +153,18 @@
     },
 
     {
-      "category": "oppo",
-      "name": "Oppo A5i",
-      "image": "oppo-A5i.png",
-      "description": "4GB RAM - 128GB Storage",
+      "category": "realme",
+      "name": "realme c71",
+      "image": "realme-c71.png",
+      "description": "4/6GB RAM - 128GB Storage",
       "status": "متاح",
       "properties": {
         "screen": "6.67 بوصة AMOLED, 1604x720",
-        "processor": " ثمانى النواه Snapdragon 6s Gen1" ,
-        "ram": "8 جيجابايت",
-        "storage": "256 جيجابايت",
-        "camera": " اماميه 5م.ب , خلفيه  8م.ب ",
-        "battery": "5100 مللي أمبير"
+        "processor": "Unisoc T7250" ,
+        "ram": "4/6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه  50م.ب ",
+        "battery": "6000 مللي أمبير"
         
       }
     },
