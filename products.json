@@ -19,7 +19,7 @@
     {
       "category": "oppo",
       "name": "Oppo A5",
-      "image": "images/oppo-a5-green.png",
+      "image": "oppo-a5-green.png",
       "description": "6GB RAM - 128GB Storage",
       "status": "متاح",
       "properties": {
@@ -36,7 +36,7 @@
     {
       "category": "oppo",
       "name": "Oppo A5",
-      "image": "images/oppo-A5-4G.png",
+      "image": "oppo-A5-4G.png",
       "description": "8GB RAM - 256GB Storage",
       "status": "متاح",
       "properties": {
@@ -53,7 +53,7 @@
     {
       "category": "oppo",
       "name": "Oppo A5 Pro",
-      "image": "images/Oppo-A5-Pro-4G.png",
+      "image": "Oppo-A5-Pro-4G.png",
       "description": "8GB RAM - 256GB Storage",
       "status": "متاح",
       "properties": {
