@@ -32,7 +32,8 @@
         
       }
     },
-  
+
+
     {
       "category": "oppo",
       "name": "Oppo A5",
@@ -321,7 +322,177 @@
         
       }
     }, 
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi A5",
+      "image": "Redmi-A5.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.88 بوصة AMOLED, 1640x720",
+        "processor": "Unisoc T7250" ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 8م.ب ",
+        "battery": "5200 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi A5",
+      "image": "Redmi-A5.png",
+      "description": "4GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.88 بوصة AMOLED, 1640x720",
+        "processor": "Unisoc T7250" ,
+        "ram": "4 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 8م.ب ",
+        "battery": "5200 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi Poco C75",
+      "image": "Redmi-Poco-C75.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.88 بوصة AMOLED, 1640x720",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 13م.ب , خلفيه 50م.ب ",
+        "battery": "5160 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi Poco C75",
+      "image": "Redmi-Poco-C75.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.88 بوصة AMOLED, 1640x720",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 13م.ب , خلفيه 50م.ب ",
+        "battery": "5160 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi 14C",
+      "image": "Redmi-14C.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.88 بوصة AMOLED, 1640x720",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 13م.ب , خلفيه 50+0.08م.ب ",
+        "battery": "5160 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi 14C",
+      "image": "Redmi-14C.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.88 بوصة AMOLED, 1640x720",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 13م.ب , خلفيه 50+0.08م.ب ",
+        "battery": "5160 مللي أمبير"
+        
+      }
+    }, 
     
+    {
+      "category": "xiaomi",
+      "name": "Redmi 14C",
+      "image": "Redmi-14C.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.88 بوصة AMOLED, 1640x720",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 13م.ب , خلفيه 50+0.08م.ب ",
+        "battery": "5160 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi Note 14",
+      "image": "Redmi-Note-14.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.67 بوصة AMOLED, 1080x2400",
+        "processor": "Helio G99 Ultra" ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 20م.ب , خلفيه 108+2+2م.ب ",
+        "battery": "5500 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi A3",
+      "image": "Redmi-A3.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.71 بوصة AMOLED, 1650x720",
+        "processor": "Helio G36" ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه 8+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    }, 
+
+    {
+      "category": "xiaomi",
+      "name": "Redmi A2+",
+      "image": "Redmi-A2+.png",
+      "description": "3GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.52 بوصة AMOLED, 720x1600",
+        "processor": "Helio G36" ,
+        "ram": "3 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه 8+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    }, 
+
     {
       "category": "iphone",
       "name": "iPhone 13",
