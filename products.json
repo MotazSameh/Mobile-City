@@ -1,0 +1,75 @@
+{
+  "mobiles": [
+    {
+      "category": "samsung",
+      "name": "Samsung A52",
+      "image": "https://via.placeholder.com/200x150?text=Samsung+A52",
+      "description": "8GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.5 بوصة Super AMOLED, 1080x2400",
+        "processor": "Qualcomm Snapdragon 720G",
+        "ram": "8 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "64 ميجابكسل (رئيسية), 12 ميجابكسل (واسعة), 5 ميجابكسل (ماكرو)",
+        "battery": "4500 مللي أمبير",
+        "price": "6500 جنيه"
+      }
+    },
+    {
+      "category": "oppo",
+      "name": "Oppo Reno 5",
+      "image": "https://via.placeholder.com/200x150?text=Oppo+Reno+5",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "خلصان",
+      "properties": {
+        "screen": "6.4 بوصة AMOLED, 1080x2400",
+        "processor": "Qualcomm Snapdragon 720G",
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "64 ميجابكسل (رئيسية), 8 ميجابكسل (واسعة), 2 ميجابكسل (ماكرو)",
+        "battery": "4310 مللي أمبير",
+        "price": "7000 جنيه"
+      }
+    },
+    {
+      "category": "iphone",
+      "name": "iPhone 13",
+      "image": "https://via.placeholder.com/200x150?text=iPhone+13",
+      "description": "128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.1 بوصة Super Retina XDR, 1170x2532",
+        "processor": "Apple A15 Bionic",
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "12 ميجابكسل (رئيسية), 12 ميجابكسل (واسعة)",
+        "battery": "3240 مللي أمبير",
+        "price": "15000 جنيه"
+      }
+    }
+  ],
+  "accessories": [
+    {
+      "category": "charger",
+      "name": "شاحن Samsung",
+      "image": "https://via.placeholder.com/200x150?text=شاحن+سامسونج",
+      "description": "السعر: 300 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "earphone",
+      "name": "سماعات سلك",
+      "image": "https://via.placeholder.com/200x150?text=سماعات+سلك",
+      "description": "السعر: 150 جنيه",
+      "status": "خلصان"
+    },
+    {
+      "category": "case",
+      "name": "جراب iPhone",
+      "image": "https://via.placeholder.com/200x150?text=جراب+آيفون",
+      "description": "السعر: 120 جنيه",
+      "status": "متاح"
+    }
+  ]
+}
