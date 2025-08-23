@@ -494,6 +494,227 @@
     }, 
 
     {
+      "category": "honor",
+      "name": "Honor X6c",
+      "image": "Honor-X6c.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.61 بوصة AMOLED ",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه 50م.ب ",
+        "battery": "5300 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "honor",
+      "name": "Honor X6c",
+      "image": "Honor-X6c.png",
+      "description": "6GB RAM - 156GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.61 بوصة AMOLED ",
+        "processor": "Helio G81 Ultra" ,
+        "ram": "6 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه 50م.ب ",
+        "battery": "5300 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "honor",
+      "name": "Honor X5b",
+      "image": "Honor-X5b.png",
+      "description": "4GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.56 بوصة AMOLED ",
+        "processor": "Helio G36" ,
+        "ram": "4 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه 13م.ب ",
+        "battery": "5200 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "honor",
+      "name": "Honor X5b Plus",
+      "image": "Honor-X5b-Plus.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.56 بوصة AMOLED ",
+        "processor": "Helio G36" ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 5م.ب , خلفيه 50م.ب ",
+        "battery": "5200 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Hot 50i",
+      "image": "Infinix-Hot-50i.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة AMOLED , 720x1600",
+        "processor": "Helio G81 " ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 48م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Hot 50i",
+      "image": "Infinix-Hot-50i.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة AMOLED , 720x1600",
+        "processor": "Helio G81 " ,
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 48م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Hot 50i",
+      "image": "Infinix-Hot-50i.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة AMOLED , 720x1600",
+        "processor": "Helio G81 " ,
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 48م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Smart 9",
+      "image": "Infinix-Smart-9.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة AMOLED , 720x1600",
+        "processor": "Helio G81 " ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 13م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Smart 9",
+      "image": "Infinix-Smart-9.png",
+      "description": "3GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة AMOLED , 720x1600",
+        "processor": "Helio G81 " ,
+        "ram": "3 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 13م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Hot 20i",
+      "image": "Infinix-Hot-20i.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.6 بوصة AMOLED ",
+        "processor": "Helio G25 " ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " QVGA+QVGA+اماميه 8م.ب , خلفيه 13م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Hot 20i",
+      "image": "Infinix-Hot-20i.png",
+      "description": "4GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.6 بوصة AMOLED ",
+        "processor": "Helio G25 " ,
+        "ram": "4 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": " QVGA+QVGA+اماميه 8م.ب , خلفيه 13م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Smart 8",
+      "image": "Infinix-Smart-8.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.6 بوصة AMOLED ",
+        "processor": "Unisoc T606 " ,
+        "ram": "4 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 13+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+
+    {
+      "category": "infinix",
+      "name": "infinix Smart 8",
+      "image": "Infinix-Smart-8.png",
+      "description": "3GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.6 بوصة AMOLED ",
+        "processor": "Unisoc T606 " ,
+        "ram": "3 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": " اماميه 8م.ب , خلفيه 13+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
+        
+      }
+    },
+    
+    {
       "category": "iphone",
       "name": "iPhone 13",
       "image": "https://via.placeholder.com/200x150?text=iPhone+13",
