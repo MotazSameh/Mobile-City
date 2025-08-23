@@ -2,20 +2,148 @@
   "mobiles": [
     {
       "category": "samsung",
-      "name": "Samsung A52",
-      "image": "https://via.placeholder.com/200x150?text=Samsung+A52",
-      "description": "8GB RAM - 128GB Storage",
+      "name": "Samsung A16",
+      "image": "Samsung-A16.png",
+      "description": "4GB RAM - 128GB Storage",
       "status": "متاح",
       "properties": {
-        "screen": "6.5 بوصة Super AMOLED, 1080x2400",
-        "processor": "Qualcomm Snapdragon 720G",
-        "ram": "8 جيجابايت",
+        "screen": "6.7 بوصة  AMOLED, 1080x2340",
+        "processor": "Mediatek Helio G99",
+        "ram": "4 جيجابايت",
         "storage": "128 جيجابايت",
-        "camera": "64 ميجابكسل (رئيسية), 12 ميجابكسل (واسعة), 5 ميجابكسل (ماكرو)",
-        "battery": "4500 مللي أمبير",
-        "price": "6500 جنيه"
+        "camera": "اماميه 13م.ب , خلفيه 50+5+2 م.ب",
+        "battery": "5000 مللي أمبير"
       }
     },
+
+    {
+      "category": "samsung",
+      "name": "Samsung A16",
+      "image": "Samsung-A16.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة  AMOLED, 1080x2340",
+        "processor": "Mediatek Helio G99",
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "اماميه 13م.ب , خلفيه 50+5+2 م.ب",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "samsung",
+      "name": "Samsung A16",
+      "image": "Samsung-A16.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة  AMOLED, 1080x2340",
+        "processor": "Mediatek Helio G99",
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 13م.ب , خلفيه 50+5+2 م.ب",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "samsung",
+      "name": "Samsung A06",
+      "image": "Samsung-A06.png",
+      "description": "4GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة  AMOLED, 720x1600",
+        "processor": " Helio G85",
+        "ram": "4 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": "اماميه 8م.ب , خلفيه 50+2 م.ب",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "samsung",
+      "name": "Samsung A06",
+      "image": "Samsung-A06.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة  AMOLED, 720x1600",
+        "processor": " Helio G85",
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "اماميه 8م.ب , خلفيه 50+2 م.ب",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "samsung",
+      "name": "Samsung A05s",
+      "image": "Samsung-A05s.png",
+      "description": "4GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة  AMOLED, 1080x2400",
+        "processor": "Snapdragon 680 4G",
+        "ram": "4 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": "اماميه 13م.ب , خلفيه 50+2+2 م.ب",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "samsung",
+      "name": "Samsung A05s",
+      "image": "Samsung-A05s.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة  AMOLED, 1080x2400",
+        "processor": "Snapdragon 680 4G",
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "اماميه 13م.ب , خلفيه 50+2+2 م.ب",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "samsung",
+      "name": "Samsung A05",
+      "image": "Samsung-A05.png",
+      "description": "4GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة  AMOLED, 720x1600",
+        "processor": "Helio G85",
+        "ram": "4 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": "اماميه 8م.ب , خلفيه 50+2 م.ب",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "samsung",
+      "name": "Samsung A05",
+      "image": "Samsung-A05.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.7 بوصة  AMOLED, 720x1600",
+        "processor": "Helio G85",
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "اماميه 8م.ب , خلفيه 50+2 م.ب",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+    
     {
       "category": "oppo",
       "name": "Oppo A5",
