@@ -843,21 +843,134 @@
     },
     
     {
-      "category": "iphone",
-      "name": "iPhone 13",
-      "image": "https://via.placeholder.com/200x150?text=iPhone+13",
-      "description": "128GB Storage",
+      "category": "vivo",
+      "name": "Vivo-V50-Lite-4G",
+      "image": "Vivo-V50-Lite-4G.png",
+      "description": "8GB RAM - 128GB Storage",
       "status": "متاح",
       "properties": {
-        "screen": "6.1 بوصة Super Retina XDR, 1170x2532",
-        "processor": "Apple A15 Bionic",
+        "screen": "6.77 بوصة AMOLED, 1080x2392",
+        "processor": "Snapdragon 685",
+        "ram": "8 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "اماميه 32م.ب , خلفيه 50+2م.ب ",
+        "battery": "6500 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "vivo",
+      "name": "Vivo-V50-Lite-4G",
+      "image": "Vivo-V50-Lite-4G.png",
+      "description": "8GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.77 بوصة AMOLED, 1080x2392",
+        "processor": "Snapdragon 685",
+        "ram": "8 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 32م.ب , خلفيه 50+2م.ب ",
+        "battery": "6500 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "vivo",
+      "name": "Vivo Y19s Pro",
+      "image": "Vivo-Y19s-Pro.png",
+      "description": "6GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.68 بوصة AMOLED, 720x1608",
+        "processor": "Unisoc Tiger T612",
+        "ram": "6 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 5م.ب , خلفيه 50م.ب ",
+        "battery": "6000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "vivo",
+      "name": "Vivo Y19s Pro",
+      "image": "Vivo-Y19s-Pro.png",
+      "description": "6GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.68 بوصة AMOLED, 720x1608",
+        "processor": "Unisoc Tiger T612",
+        "ram": "6 جيجابايت",
+        "storage": "128 جيجابايت",
+        "camera": "اماميه 5م.ب , خلفيه 50م.ب ",
+        "battery": "6000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "vivo",
+      "name": "Vivo Y19s Pro",
+      "image": "Vivo-Y19s-Pro.png",
+      "description": "6GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.68 بوصة AMOLED, 720x1608",
+        "processor": "Unisoc Tiger T612",
+        "ram": "6 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 5م.ب , خلفيه 50م.ب ",
+        "battery": "6000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "vivo",
+      "name": "Vivo Y04",
+      "image": "Vivo-Y04.png",
+      "description": "4GB RAM - 64GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.74 بوصة AMOLED, 720x1600",
+        "processor": "Unisoc T7225",
+        "ram": "4 جيجابايت",
+        "storage": "64 جيجابايت",
+        "camera": "اماميه 5م.ب , خلفيه 13+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+
+    {
+      "category": "vivo",
+      "name": "Vivo Y04",
+      "image": "Vivo-Y04.png",
+      "description": "4GB RAM - 128GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.74 بوصة AMOLED, 720x1600",
+        "processor": "Unisoc T7225",
         "ram": "4 جيجابايت",
         "storage": "128 جيجابايت",
-        "camera": "12 ميجابكسل (رئيسية), 12 ميجابكسل (واسعة)",
-        "battery": "3240 مللي أمبير",
-        "price": "15000 جنيه"
+        "camera": "اماميه 5م.ب , خلفيه 13+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
       }
-    }
+    },
+
+    {
+      "category": "vivo",
+      "name": "Vivo Y04",
+      "image": "Vivo-Y04.png",
+      "description": "4GB RAM - 256GB Storage",
+      "status": "متاح",
+      "properties": {
+        "screen": "6.74 بوصة AMOLED, 720x1600",
+        "processor": "Unisoc T7225",
+        "ram": "4 جيجابايت",
+        "storage": "256 جيجابايت",
+        "camera": "اماميه 5م.ب , خلفيه 13+0.08م.ب ",
+        "battery": "5000 مللي أمبير"
+      }
+    },
+    
+    
   ],
   "accessories": [
     {
