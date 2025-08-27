@@ -975,11 +975,47 @@
   "accessories": [
     {
       "category": "charger",
-      "name": "شاحن Samsung",
-      "image": "https://via.placeholder.com/200x150?text=شاحن+سامسونج",
-      "description": "السعر: 300 جنيه",
+      "name": "  راس شاحن Samsung",
+      "image": "samsung-original.png",
+      "description": "السعر: 250 جنيه",
       "status": "متاح"
     },
+    {
+      "category": "charger",
+      "name": "شاحن Samsung",
+      "image": "samsung-original-full.png",
+      "description": "السعر: 400 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": " وصله oppo",
+      "image": "cable-oppo.png",
+      "description": "السعر: 250 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": " Charger ANKER Iphone",
+      "image": "anker-charger-iphone.png",
+      "description": "السعر: 200 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": " Charger HM micro or type-c",
+      "image": "charger-HM-MICRO-TYPEC.png",
+      "description": "السعر: 150 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": " Charger TRAVEL type-c",
+      "image": "charger-Travel-Typec.png",
+      "description": "السعر: 150 جنيه",
+      "status": "متاح"
+    },
+    
     {
       "category": "earphone",
       "name": "سماعات سلك",
