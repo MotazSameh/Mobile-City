@@ -1073,10 +1073,59 @@
     },
     {
       "category": "earphone",
-      "name": "سماعات سلك",
-      "image": "https://via.placeholder.com/200x150?text=سماعات+سلك",
+      "name": "Handfree MOOXOOM",
+      "image": "Handfree-MOOXOOM.png",
+      "description": "السعر: 75 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "earphone",
+      "name": "Handfree UDDO",
+      "image": "Handfree-UDDO.png",
+      "description": "السعر: 50 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "earphone",
+      "name": "Handfree Celebrat",
+      "image": "Handfree-Celebrat.png",
+      "description": "السعر: 100 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "earphone",
+      "name": "Handfree JOYROOM",
+      "image": "Handfree-JOYROOM.png",
+      "description": "السعر: 100 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "earphone",
+      "name": "Handfree ANKER IPHONE",
+      "image": "Handfree-ANKER-IPHONE.png",
       "description": "السعر: 150 جنيه",
-      "status": "خلصان"
+      "status": "متاح"
+    },
+    {
+      "category": "earphone",
+      "name": "Handfree Type-C",
+      "image": "Handfree-TypeC.png",
+      "description": "السعر: 150 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "earphone",
+      "name": "Handfree ",
+      "image": "Handfree.png",
+      "description": "السعر: 75 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "earphone",
+      "name": "Handfree Samsung",
+      "image": "Handfree-Samsung.png",
+      "description": "السعر: 150 جنيه",
+      "status": "متاح"
     },
     {
       "category": "case",
