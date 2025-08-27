@@ -1010,12 +1010,67 @@
     },
     {
       "category": "charger",
-      "name": " Charger TRAVEL type-c",
+      "name": " Charger TRAVEL type-c 2.1A",
       "image": "charger-Travel-Typec.png",
       "description": "السعر: 150 جنيه",
       "status": "متاح"
     },
-    
+    {
+      "category": "charger",
+      "name": "Cable 3Tech Type-C 3A",
+      "image": "cable-3tech-typeC.png",
+      "description": "السعر: 100 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": "Cable 3Tech Micro 2.4A",
+      "image": "cable-3tech-micro.png",
+      "description": "السعر: 100 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": "Cable YEYROOM 20w 1m Micro",
+      "image": "cable-YEYROOM.png",
+      "description": "السعر: 100 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": "Cable YEYROOM 20w 1m Type-C",
+      "image": "cable-YEYROOM-TypeC.png",
+      "description": "السعر: 100 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": "Cable JOKADE micro 3A",
+      "image": "cable-JOKADE-micro.png",
+      "description": "السعر: 75 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": "Cable UEELR Type-C 3A",
+      "image": "cable-UEELR-TypeC.png",
+      "description": "السعر: 75 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": "Cable JOYROOM 60W Type-C",
+      "image": "cable-JOYROOM-TypeC.png",
+      "description": "السعر: 140 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "charger",
+      "name": "Cable AUX Iphone",
+      "image": "cable-AUX-Iphone.png",
+      "description": "السعر: 150 جنيه",
+      "status": "متاح"
+    },
     {
       "category": "earphone",
       "name": "سماعات سلك",
