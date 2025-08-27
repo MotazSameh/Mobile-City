@@ -1127,11 +1127,26 @@
       "description": "السعر: 150 جنيه",
       "status": "متاح"
     },
+    
     {
-      "category": "case",
-      "name": "جراب iPhone",
-      "image": "https://via.placeholder.com/200x150?text=جراب+آيفون",
-      "description": "السعر: 120 جنيه",
+      "category": "screen",
+      "name": "اسكرينه hd لكل موديلات",
+      "image": "HD-Screen.png",
+      "description": "السعر: 50 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "screen",
+      "name": "اسكرينه غزاله لكل موديلات",
+      "image": "Y-screen.png",
+      "description": "السعر: 70 جنيه",
+      "status": "متاح"
+    },
+    {
+      "category": "screen",
+      "name": "اسكرينه Private لكل موديلات",
+      "image": "Private-screen.png",
+      "description": "السعر: 100 جنيه",
       "status": "متاح"
     }
   ]
